@@ -1,0 +1,1913 @@
+{
+  "nodes": [
+    {
+      "commodity": "e_Aberdeen_GBR",
+      "region": "GBR",
+      "lng": -2.384021498835101,
+      "lat": 57.21863711445629,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "e_Ashford_GBR",
+      "region": "GBR",
+      "lng": 1.1448358124246545,
+      "lat": 51.09844688040387,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "e_Basildon_GBR",
+      "region": "GBR",
+      "lng": 0.7161575436002887,
+      "lat": 51.44049829914561,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "e_Belfast_GBR",
+      "region": "GBR",
+      "lng": -5.770469013098239,
+      "lat": 54.84320148529032,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "e_Caerdydd_GBR",
+      "region": "GBR",
+      "lng": -3.3003748822682115,
+      "lat": 51.63586780587152,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "e_Derry_GBR",
+      "region": "GBR",
+      "lng": -7.24826435996771,
+      "lat": 55.04227530539502,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "e_Elgin_GBR",
+      "region": "GBR",
+      "lng": -2.9504139962807976,
+      "lat": 57.52117496701186,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "e_Glasgow_GBR",
+      "region": "GBR",
+      "lng": -4.256805779935858,
+      "lat": 55.90303777310213,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "e_Ipswich_GBR",
+      "region": "GBR",
+      "lng": 1.0618678452808807,
+      "lat": 52.07139812264317,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "e_Lerwick_GBR",
+      "region": "GBR",
+      "lng": -1.2719451172071998,
+      "lat": 60.29340062591924,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "e_Lisburn_GBR",
+      "region": "GBR",
+      "lng": -6.425293877259193,
+      "lat": 54.36994293827803,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "e_Liverpool_GBR",
+      "region": "GBR",
+      "lng": -3.0325941174955027,
+      "lat": 53.23046268805612,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "e_Manchester_GBR",
+      "region": "GBR",
+      "lng": -2.3791827939912915,
+      "lat": 53.42611869761402,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "e_Newcastle_GBR",
+      "region": "GBR",
+      "lng": -1.5404269162550226,
+      "lat": 55.14647596191799,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "e_Paisley_GBR",
+      "region": "GBR",
+      "lng": -4.894821189854914,
+      "lat": 55.718036768358985,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "e_Peterborough_GBR",
+      "region": "GBR",
+      "lng": -0.2365005345670102,
+      "lat": 52.9209925331145,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "e_Plymouth_GBR",
+      "region": "GBR",
+      "lng": -4.242535213727524,
+      "lat": 50.44487758090693,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "e_Portsmouth_GBR",
+      "region": "GBR",
+      "lng": -1.194439480272105,
+      "lat": 50.81803563886026,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "e_Preston_GBR",
+      "region": "GBR",
+      "lng": -2.8906542951356453,
+      "lat": 54.032540877565616,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "e_Reading_GBR",
+      "region": "GBR",
+      "lng": -1.077280274941815,
+      "lat": 51.33629200924365,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "e_Stranraer_GBR",
+      "region": "GBR",
+      "lng": -4.9807507247075335,
+      "lat": 55.069699109091,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "e_Wick_GBR",
+      "region": "GBR",
+      "lng": -3.452184943694071,
+      "lat": 58.47996790376149,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_spv_GBR_001",
+      "region": "GBR",
+      "lng": -0.3410822061654773,
+      "lat": 53.03891710717751,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_spv_GBR_002",
+      "region": "GBR",
+      "lng": -0.0234314833499678,
+      "lat": 51.14391781135148,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_spv_GBR_003",
+      "region": "GBR",
+      "lng": -2.523252834936688,
+      "lat": 57.09326209028556,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_spv_GBR_004",
+      "region": "GBR",
+      "lng": -4.214144257591402,
+      "lat": 58.373636807147314,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_spv_GBR_005",
+      "region": "GBR",
+      "lng": -5.614084204902936,
+      "lat": 54.34701945441322,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_spv_GBR_006",
+      "region": "GBR",
+      "lng": -4.4481505781852375,
+      "lat": 54.82260102732789,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_spv_GBR_007",
+      "region": "GBR",
+      "lng": -3.892146950431188,
+      "lat": 55.70878674939266,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_spv_GBR_008",
+      "region": "GBR",
+      "lng": -6.709110402641067,
+      "lat": 54.28718339853094,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_spv_GBR_009",
+      "region": "GBR",
+      "lng": 1.1412878336402337,
+      "lat": 52.323548636033,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_spv_GBR_010",
+      "region": "GBR",
+      "lng": -5.249763403264165,
+      "lat": 56.205698630211664,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_spv_GBR_011",
+      "region": "GBR",
+      "lng": -0.7222630735440887,
+      "lat": 51.31045450353963,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_spv_GBR_012",
+      "region": "GBR",
+      "lng": -4.27086404559037,
+      "lat": 50.87849482404695,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_spv_GBR_013",
+      "region": "GBR",
+      "lng": -3.399494813356084,
+      "lat": 52.98028939386791,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_spv_GBR_014",
+      "region": "GBR",
+      "lng": -7.514391604640592,
+      "lat": 54.765248970921554,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_spv_GBR_015",
+      "region": "GBR",
+      "lng": -3.208753227149888,
+      "lat": 57.419319119481095,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_spv_GBR_016",
+      "region": "GBR",
+      "lng": -1.59580256128674,
+      "lat": 50.862153044980616,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_spv_GBR_017",
+      "region": "GBR",
+      "lng": -2.1814865240931307,
+      "lat": 55.19334897544029,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_spv_GBR_018",
+      "region": "GBR",
+      "lng": 1.374231697038274,
+      "lat": 51.19939818137732,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_spv_GBR_019",
+      "region": "GBR",
+      "lng": -1.990210570345783,
+      "lat": 53.33666405351667,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_spv_GBR_020",
+      "region": "GBR",
+      "lng": -2.860173017521236,
+      "lat": 54.578983170592224,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_spv_GBR_021",
+      "region": "GBR",
+      "lng": -3.535214779237704,
+      "lat": 51.67535129024478,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_spv_GBR_022",
+      "region": "GBR",
+      "lng": -1.451115994979703,
+      "lat": 59.72362454025937,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_001",
+      "region": "GBR",
+      "lng": 0.7947809363669395,
+      "lat": 54.7421299820212,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_002",
+      "region": "GBR",
+      "lng": 0.2481345936549183,
+      "lat": 50.49053101568973,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_003",
+      "region": "GBR",
+      "lng": -2.156763586203074,
+      "lat": 56.391936412817536,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_004",
+      "region": "GBR",
+      "lng": -0.8323103393111541,
+      "lat": 57.61252517032991,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_005",
+      "region": "GBR",
+      "lng": -3.1679911609469085,
+      "lat": 58.70834167971932,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_006",
+      "region": "GBR",
+      "lng": -3.824326679063452,
+      "lat": 59.91623163718766,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_007",
+      "region": "GBR",
+      "lng": -5.986544496680442,
+      "lat": 59.386513316209744,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_008",
+      "region": "GBR",
+      "lng": -5.695285198871356,
+      "lat": 54.69021432140553,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_009",
+      "region": "GBR",
+      "lng": -5.070273170646007,
+      "lat": 54.37576081110869,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_010",
+      "region": "GBR",
+      "lng": -3.0833660261629943,
+      "lat": 55.88632401562722,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_011",
+      "region": "GBR",
+      "lng": -5.772302092934526,
+      "lat": 52.6708334063868,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_012",
+      "region": "GBR",
+      "lng": 2.45757983889108,
+      "lat": 53.91358743171785,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_013",
+      "region": "GBR",
+      "lng": -6.03264784596036,
+      "lat": 56.94517313776345,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_014",
+      "region": "GBR",
+      "lng": -7.724385885680374,
+      "lat": 49.64088561579943,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_015",
+      "region": "GBR",
+      "lng": -6.02558490577818,
+      "lat": 51.014791032188974,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_016",
+      "region": "GBR",
+      "lng": -5.669034782467314,
+      "lat": 49.25480421849584,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_017",
+      "region": "GBR",
+      "lng": -3.722553269786096,
+      "lat": 49.827059381258366,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_018",
+      "region": "GBR",
+      "lng": -4.415973683308607,
+      "lat": 53.63462958859636,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_019",
+      "region": "GBR",
+      "lng": -13.97488941706225,
+      "lat": 57.746278776703605,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_020",
+      "region": "GBR",
+      "lng": -7.751627792254211,
+      "lat": 56.47061531845961,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_021",
+      "region": "GBR",
+      "lng": -9.291012620510612,
+      "lat": 59.58454132697995,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_022",
+      "region": "GBR",
+      "lng": -8.49808043271498,
+      "lat": 57.8936566640122,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_023",
+      "region": "GBR",
+      "lng": -2.555956807594116,
+      "lat": 58.05234566352283,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_024",
+      "region": "GBR",
+      "lng": -1.6215682974421757,
+      "lat": 50.12133033868171,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_025",
+      "region": "GBR",
+      "lng": 0.4613826447746195,
+      "lat": 56.314145134548326,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_026",
+      "region": "GBR",
+      "lng": -0.7298925533343259,
+      "lat": 55.49034324503452,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_027",
+      "region": "GBR",
+      "lng": 1.4578842738962428,
+      "lat": 50.85727294143207,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_028",
+      "region": "GBR",
+      "lng": -3.7496702748771376,
+      "lat": 54.53737892319419,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_029",
+      "region": "GBR",
+      "lng": -5.082277461853778,
+      "lat": 52.55605122541811,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_030",
+      "region": "GBR",
+      "lng": 0.9130112402425474,
+      "lat": 60.12260714592773,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_031",
+      "region": "GBR",
+      "lng": -1.4817735668336027,
+      "lat": 59.1671442652636,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_032",
+      "region": "GBR",
+      "lng": 0.6418528060012422,
+      "lat": 58.620627643277736,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_033",
+      "region": "GBR",
+      "lng": 0.6375389055965918,
+      "lat": 61.65010474640952,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_wof_GBR_034",
+      "region": "GBR",
+      "lng": -2.008161734190028,
+      "lat": 60.8003057760567,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_won_GBR_001",
+      "region": "GBR",
+      "lng": -1.2781038076584772,
+      "lat": 52.63262285847043,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_won_GBR_002",
+      "region": "GBR",
+      "lng": 0.1107418839262356,
+      "lat": 51.11033321625112,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_won_GBR_003",
+      "region": "GBR",
+      "lng": -2.806824985375086,
+      "lat": 57.00497172535053,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_won_GBR_004",
+      "region": "GBR",
+      "lng": -4.446196719441376,
+      "lat": 58.23424920073885,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_won_GBR_005",
+      "region": "GBR",
+      "lng": -5.826719467515135,
+      "lat": 54.73196706771854,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_won_GBR_006",
+      "region": "GBR",
+      "lng": -4.281739955723777,
+      "lat": 54.796679636275485,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_won_GBR_007",
+      "region": "GBR",
+      "lng": -4.042736183952552,
+      "lat": 56.290296837859714,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_won_GBR_008",
+      "region": "GBR",
+      "lng": -6.69432888301269,
+      "lat": 54.287869599609365,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_won_GBR_009",
+      "region": "GBR",
+      "lng": 0.9679962691522228,
+      "lat": 52.49402720929477,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_won_GBR_010",
+      "region": "GBR",
+      "lng": -5.507924321254127,
+      "lat": 56.83766354840316,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_won_GBR_011",
+      "region": "GBR",
+      "lng": -1.425420104958783,
+      "lat": 51.53826477316895,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_won_GBR_012",
+      "region": "GBR",
+      "lng": -4.176365402501997,
+      "lat": 50.850948852411605,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_won_GBR_013",
+      "region": "GBR",
+      "lng": -3.4447355120801344,
+      "lat": 52.83814780513735,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_won_GBR_014",
+      "region": "GBR",
+      "lng": -7.011747385291178,
+      "lat": 54.796679636275485,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_won_GBR_015",
+      "region": "GBR",
+      "lng": -3.4693324412174524,
+      "lat": 57.12838789217086,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_won_GBR_016",
+      "region": "GBR",
+      "lng": -1.9799389644098624,
+      "lat": 51.04149473492341,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_won_GBR_017",
+      "region": "GBR",
+      "lng": -2.187426692435133,
+      "lat": 55.14639135355546,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_won_GBR_018",
+      "region": "GBR",
+      "lng": 1.374231697038274,
+      "lat": 51.19939818137732,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_won_GBR_019",
+      "region": "GBR",
+      "lng": -2.0209792714786743,
+      "lat": 53.50723104794643,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_won_GBR_020",
+      "region": "GBR",
+      "lng": -2.7161383334977853,
+      "lat": 54.561273298527006,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_won_GBR_021",
+      "region": "GBR",
+      "lng": -3.6343698999168943,
+      "lat": 51.82117051370478,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "elc_won_GBR_022",
+      "region": "GBR",
+      "lng": -1.4210946637382096,
+      "lat": 60.192601818622734,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_GBR"
+    },
+    {
+      "commodity": "e_Ballincollig_IRL",
+      "region": "IRL",
+      "lng": -9.059683199999991,
+      "lat": 52.01205229473821,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "e_Cork_IRL",
+      "region": "IRL",
+      "lng": -8.319298979591615,
+      "lat": 51.95419524504926,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "e_Drogheda_IRL",
+      "region": "IRL",
+      "lng": -6.565873230637978,
+      "lat": 53.96725467084371,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "e_Dublin_IRL",
+      "region": "IRL",
+      "lng": -6.567545295690898,
+      "lat": 53.47122516126938,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "e_DunDealgan_IRL",
+      "region": "IRL",
+      "lng": -6.56563199544333,
+      "lat": 53.96748283731559,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "e_Greystones_IRL",
+      "region": "IRL",
+      "lng": -6.147666672058022,
+      "lat": 52.81517232542352,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "e_Limerick_IRL",
+      "region": "IRL",
+      "lng": -8.545611318931646,
+      "lat": 52.64011777776408,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "e_Longford_IRL",
+      "region": "IRL",
+      "lng": -8.123854677688668,
+      "lat": 53.911673032838166,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "e_Shannon_IRL",
+      "region": "IRL",
+      "lng": -9.396376812418666,
+      "lat": 52.58018536321415,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "e_Waterford_IRL",
+      "region": "IRL",
+      "lng": -6.991723948471955,
+      "lat": 52.28158115898056,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_spv_IRL_001",
+      "region": "IRL",
+      "lng": -9.410278471968873,
+      "lat": 51.86118936348206,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_spv_IRL_002",
+      "region": "IRL",
+      "lng": -8.332563839708097,
+      "lat": 52.07204277904955,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_spv_IRL_003",
+      "region": "IRL",
+      "lng": -6.525535880051875,
+      "lat": 52.7605097272066,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_spv_IRL_004",
+      "region": "IRL",
+      "lng": -8.516951080190783,
+      "lat": 52.73531538137214,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_spv_IRL_005",
+      "region": "IRL",
+      "lng": -8.354707293651803,
+      "lat": 53.790092579296335,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_spv_IRL_006",
+      "region": "IRL",
+      "lng": -7.076274486530554,
+      "lat": 53.5439569667019,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_spv_IRL_007",
+      "region": "IRL",
+      "lng": -7.246721528031125,
+      "lat": 54.109490272793415,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_spv_IRL_008",
+      "region": "IRL",
+      "lng": -6.585388032929937,
+      "lat": 54.39397891986721,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_spv_IRL_009",
+      "region": "IRL",
+      "lng": -9.410278471968873,
+      "lat": 52.7605097272066,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_spv_IRL_010",
+      "region": "IRL",
+      "lng": -7.215225519180312,
+      "lat": 52.5526831818454,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_wof_IRL_001",
+      "region": "IRL",
+      "lng": -9.84202872778249,
+      "lat": 50.09603554996942,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_wof_IRL_002",
+      "region": "IRL",
+      "lng": -9.64715959709554,
+      "lat": 51.76500341591211,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_wof_IRL_003",
+      "region": "IRL",
+      "lng": -9.874585990696994,
+      "lat": 51.0446642192903,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_wof_IRL_004",
+      "region": "IRL",
+      "lng": -7.908586722902402,
+      "lat": 51.44425348377322,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_wof_IRL_005",
+      "region": "IRL",
+      "lng": -8.085076756404979,
+      "lat": 50.34154348748735,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_wof_IRL_006",
+      "region": "IRL",
+      "lng": -5.680297013164889,
+      "lat": 52.22042919925995,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_wof_IRL_007",
+      "region": "IRL",
+      "lng": -5.616920317188179,
+      "lat": 53.39382824512796,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_wof_IRL_008",
+      "region": "IRL",
+      "lng": -8.31026590387642,
+      "lat": 54.46317010698692,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_wof_IRL_009",
+      "region": "IRL",
+      "lng": -8.863377828647337,
+      "lat": 55.001050356853575,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_wof_IRL_010",
+      "region": "IRL",
+      "lng": -8.897079088607988,
+      "lat": 55.69600515472951,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_wof_IRL_011",
+      "region": "IRL",
+      "lng": -6.489857591006325,
+      "lat": 55.097174191047465,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_wof_IRL_012",
+      "region": "IRL",
+      "lng": -14.830677615986044,
+      "lat": 56.24359200436002,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_wof_IRL_013",
+      "region": "IRL",
+      "lng": -11.430596609169775,
+      "lat": 53.80436856910327,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_wof_IRL_014",
+      "region": "IRL",
+      "lng": -12.09924573735593,
+      "lat": 52.30833474913497,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_wof_IRL_015",
+      "region": "IRL",
+      "lng": -8.985577617644003,
+      "lat": 52.66430172931996,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_wof_IRL_016",
+      "region": "IRL",
+      "lng": -10.528470455415787,
+      "lat": 52.57256151841288,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_wof_IRL_017",
+      "region": "IRL",
+      "lng": -6.9665243977579046,
+      "lat": 52.21465062663781,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_wof_IRL_018",
+      "region": "IRL",
+      "lng": -6.6904701058667735,
+      "lat": 51.40777092462279,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_won_IRL_001",
+      "region": "IRL",
+      "lng": -9.410278471968873,
+      "lat": 51.86118936348206,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_won_IRL_002",
+      "region": "IRL",
+      "lng": -8.257637252304438,
+      "lat": 52.0937175962293,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_won_IRL_003",
+      "region": "IRL",
+      "lng": -6.525535880051875,
+      "lat": 52.7605097272066,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_won_IRL_004",
+      "region": "IRL",
+      "lng": -8.486741945414447,
+      "lat": 52.711310038732,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_won_IRL_005",
+      "region": "IRL",
+      "lng": -8.365514150900236,
+      "lat": 53.96082495101854,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_won_IRL_006",
+      "region": "IRL",
+      "lng": -7.0144194204175445,
+      "lat": 53.48220617221124,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_won_IRL_007",
+      "region": "IRL",
+      "lng": -7.246721528031125,
+      "lat": 54.109490272793415,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_won_IRL_008",
+      "region": "IRL",
+      "lng": -6.693480695836625,
+      "lat": 54.47625914350001,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_won_IRL_009",
+      "region": "IRL",
+      "lng": -9.410278471968873,
+      "lat": 52.7605097272066,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_IRL"
+    },
+    {
+      "commodity": "elc_won_IRL_010",
+      "region": "IRL",
+      "lng": -7.204630898054655,
+      "lat": 52.54505405456643,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_IRL"
+    }
+  ],
+  "links": [
+    {
+      "tech": "g_Ashford_GBR-Reading_GBR",
+      "comm1": "e_Ashford_GBR",
+      "comm2": "e_Reading_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Basildon_GBR-Ashford_GBR",
+      "comm1": "e_Basildon_GBR",
+      "comm2": "e_Ashford_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Basildon_GBR-Ipswich_GBR",
+      "comm1": "e_Basildon_GBR",
+      "comm2": "e_Ipswich_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Belfast_GBR-Stranraer_GBR",
+      "comm1": "e_Belfast_GBR",
+      "comm2": "e_Stranraer_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Caerdydd_GBR-Manchester_GBR",
+      "comm1": "e_Caerdydd_GBR",
+      "comm2": "e_Manchester_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Caerdydd_GBR-Reading_GBR",
+      "comm1": "e_Caerdydd_GBR",
+      "comm2": "e_Reading_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Derry_GBR-Lisburn_GBR",
+      "comm1": "e_Derry_GBR",
+      "comm2": "e_Lisburn_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Elgin_GBR-Aberdeen_GBR",
+      "comm1": "e_Elgin_GBR",
+      "comm2": "e_Aberdeen_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Elgin_GBR-Glasgow_GBR",
+      "comm1": "e_Elgin_GBR",
+      "comm2": "e_Glasgow_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Glasgow_GBR-Aberdeen_GBR",
+      "comm1": "e_Glasgow_GBR",
+      "comm2": "e_Aberdeen_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Glasgow_GBR-Newcastle_GBR",
+      "comm1": "e_Glasgow_GBR",
+      "comm2": "e_Newcastle_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Glasgow_GBR-Paisley_GBR",
+      "comm1": "e_Glasgow_GBR",
+      "comm2": "e_Paisley_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Glasgow_GBR-Preston_GBR",
+      "comm1": "e_Glasgow_GBR",
+      "comm2": "e_Preston_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Glasgow_GBR-Wick_GBR",
+      "comm1": "e_Glasgow_GBR",
+      "comm2": "e_Wick_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Lisburn_GBR-Belfast_GBR",
+      "comm1": "e_Lisburn_GBR",
+      "comm2": "e_Belfast_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Liverpool_GBR-Manchester_GBR",
+      "comm1": "e_Liverpool_GBR",
+      "comm2": "e_Manchester_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Liverpool_GBR-Preston_GBR",
+      "comm1": "e_Liverpool_GBR",
+      "comm2": "e_Preston_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Manchester_GBR-Liverpool_GBR",
+      "comm1": "e_Manchester_GBR",
+      "comm2": "e_Liverpool_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Manchester_GBR-Peterborough_GBR",
+      "comm1": "e_Manchester_GBR",
+      "comm2": "e_Peterborough_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Newcastle_GBR-Manchester_GBR",
+      "comm1": "e_Newcastle_GBR",
+      "comm2": "e_Manchester_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Paisley_GBR-Liverpool_GBR",
+      "comm1": "e_Paisley_GBR",
+      "comm2": "e_Liverpool_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Peterborough_GBR-Basildon_GBR",
+      "comm1": "e_Peterborough_GBR",
+      "comm2": "e_Basildon_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Peterborough_GBR-Ipswich_GBR",
+      "comm1": "e_Peterborough_GBR",
+      "comm2": "e_Ipswich_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Peterborough_GBR-Newcastle_GBR",
+      "comm1": "e_Peterborough_GBR",
+      "comm2": "e_Newcastle_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Peterborough_GBR-Reading_GBR",
+      "comm1": "e_Peterborough_GBR",
+      "comm2": "e_Reading_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Plymouth_GBR-Caerdydd_GBR",
+      "comm1": "e_Plymouth_GBR",
+      "comm2": "e_Caerdydd_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Portsmouth_GBR-Caerdydd_GBR",
+      "comm1": "e_Portsmouth_GBR",
+      "comm2": "e_Caerdydd_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Preston_GBR-Manchester_GBR",
+      "comm1": "e_Preston_GBR",
+      "comm2": "e_Manchester_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Preston_GBR-Newcastle_GBR",
+      "comm1": "e_Preston_GBR",
+      "comm2": "e_Newcastle_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Reading_GBR-Basildon_GBR",
+      "comm1": "e_Reading_GBR",
+      "comm2": "e_Basildon_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Reading_GBR-Manchester_GBR",
+      "comm1": "e_Reading_GBR",
+      "comm2": "e_Manchester_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Reading_GBR-Portsmouth_GBR",
+      "comm1": "e_Reading_GBR",
+      "comm2": "e_Portsmouth_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Stranraer_GBR-Glasgow_GBR",
+      "comm1": "e_Stranraer_GBR",
+      "comm2": "e_Glasgow_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Wick_GBR-Elgin_GBR",
+      "comm1": "e_Wick_GBR",
+      "comm2": "e_Elgin_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Wick_GBR-Lerwick_GBR",
+      "comm1": "e_Wick_GBR",
+      "comm2": "e_Lerwick_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Ballincollig_IRL-Cork_IRL",
+      "comm1": "e_Ballincollig_IRL",
+      "comm2": "e_Cork_IRL",
+      "reg1": "IRL",
+      "reg2": "IRL",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_IRL",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Cork_IRL-Waterford_IRL",
+      "comm1": "e_Cork_IRL",
+      "comm2": "e_Waterford_IRL",
+      "reg1": "IRL",
+      "reg2": "IRL",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_IRL",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Drogheda_IRL-DunDealgan_IRL",
+      "comm1": "e_Drogheda_IRL",
+      "comm2": "e_DunDealgan_IRL",
+      "reg1": "IRL",
+      "reg2": "IRL",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_IRL",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Dublin_IRL-Drogheda_IRL",
+      "comm1": "e_Dublin_IRL",
+      "comm2": "e_Drogheda_IRL",
+      "reg1": "IRL",
+      "reg2": "IRL",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_IRL",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Dublin_IRL-Greystones_IRL",
+      "comm1": "e_Dublin_IRL",
+      "comm2": "e_Greystones_IRL",
+      "reg1": "IRL",
+      "reg2": "IRL",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_IRL",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Dublin_IRL-Waterford_IRL",
+      "comm1": "e_Dublin_IRL",
+      "comm2": "e_Waterford_IRL",
+      "reg1": "IRL",
+      "reg2": "IRL",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_IRL",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Greystones_IRL-Waterford_IRL",
+      "comm1": "e_Greystones_IRL",
+      "comm2": "e_Waterford_IRL",
+      "reg1": "IRL",
+      "reg2": "IRL",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_IRL",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Limerick_IRL-Cork_IRL",
+      "comm1": "e_Limerick_IRL",
+      "comm2": "e_Cork_IRL",
+      "reg1": "IRL",
+      "reg2": "IRL",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_IRL",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Limerick_IRL-Dublin_IRL",
+      "comm1": "e_Limerick_IRL",
+      "comm2": "e_Dublin_IRL",
+      "reg1": "IRL",
+      "reg2": "IRL",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_IRL",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Longford_IRL-Drogheda_IRL",
+      "comm1": "e_Longford_IRL",
+      "comm2": "e_Drogheda_IRL",
+      "reg1": "IRL",
+      "reg2": "IRL",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_IRL",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Longford_IRL-Dublin_IRL",
+      "comm1": "e_Longford_IRL",
+      "comm2": "e_Dublin_IRL",
+      "reg1": "IRL",
+      "reg2": "IRL",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_IRL",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Longford_IRL-Limerick_IRL",
+      "comm1": "e_Longford_IRL",
+      "comm2": "e_Limerick_IRL",
+      "reg1": "IRL",
+      "reg2": "IRL",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_IRL",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Shannon_IRL-Ballincollig_IRL",
+      "comm1": "e_Shannon_IRL",
+      "comm2": "e_Ballincollig_IRL",
+      "reg1": "IRL",
+      "reg2": "IRL",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_IRL",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Shannon_IRL-Dublin_IRL",
+      "comm1": "e_Shannon_IRL",
+      "comm2": "e_Dublin_IRL",
+      "reg1": "IRL",
+      "reg2": "IRL",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_IRL",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Shannon_IRL-Limerick_IRL",
+      "comm1": "e_Shannon_IRL",
+      "comm2": "e_Limerick_IRL",
+      "reg1": "IRL",
+      "reg2": "IRL",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_IRL",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Lisburn_GBR-DunDealgan_IRL",
+      "comm1": "e_Lisburn_GBR",
+      "comm2": "e_DunDealgan_IRL",
+      "reg1": "GBR",
+      "reg2": "IRL",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_crossborder",
+      "cross_border": true
+    }
+  ],
+  "meta": {
+    "source": "C:\\Veda\\Veda\\Veda_models\\vervestacks_models\\VS_UoG_IE_UK\\SuppXLS\\trades\\scentrade__trade_links.xlsx",
+    "node_sheets": [
+      "grid_links_GBR",
+      "grid_links_IRL"
+    ],
+    "link_sheets": [
+      "grid_links_GBR",
+      "grid_links_IRL",
+      "grid_links_crossborder"
+    ],
+    "n_nodes": 148,
+    "n_links": 51
+  }
+}
